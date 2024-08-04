@@ -1,0 +1,6 @@
+git clone <repository-url>
+cd assignment
+echo "This is file1.txt" > file1.txt
+git add file1.txt
+git commit -m "Add file1.txt"
+git push origin main
